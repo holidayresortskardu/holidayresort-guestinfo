@@ -1,1 +1,0 @@
-# holidayresort-guestinfo
